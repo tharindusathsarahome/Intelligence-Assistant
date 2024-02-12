@@ -2,13 +2,21 @@
 
 Welcome to the official repository of YouFIRA – an innovative robot assistant developed as part of our first-year hardware group project in BSc(Hons) in Artificial Intelligence at the University of Moratuwa.
 
-[![YouFIRA Demo Video](https://img.youtube.com/vi/soXDL_RVdo0/0.jpg)](https://www.youtube.com/watch?v=soXDL_RVdo0)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=soXDL_RVdo0">
+    <img src="https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/YouFIRA/main.jpeg" alt="Project Screenshot" width="800">
+  </a>
+</div>
 
 ## Project Overview
 
 ### Introduction
 
 YouFIRA is a cutting-edge robot assistant designed to revolutionize human-robot interactions. Developed by a dynamic team of students - Tharindu Sathsara, Eranda Abewardhana, Channa Dissanayaka and Giman Dissasekara, this project showcases the convergence of artificial intelligence, robotics, and advanced control systems.
+
+[Watch the YouFIRA Demo on YouTube ](https://www.youtube.com/embed/soXDL_RVdo0)
+
+[![YouFIRA Demo Video](https://img.youtube.com/vi/soXDL_RVdo0/0.jpg)](https://www.youtube.com/watch?v=soXDL_RVdo0)
 
 ### Key Features
 
